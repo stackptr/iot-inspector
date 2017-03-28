@@ -1,0 +1,14 @@
+{
+  "name": "iot-inspector",
+  "version": "0.0.1",
+  "description": "Application for detecting security vulnerabilities on connected devices / IoT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/stackptr/iot-inspector",
+  "author": "stackptr",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
